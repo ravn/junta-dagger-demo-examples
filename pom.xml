@@ -8,7 +8,8 @@
     <packaging>pom</packaging>
 
     <modules>
-      <module>example1</module>
+        <module>example1</module>
+        <module>example2</module>
     </modules>
 
 </project>
